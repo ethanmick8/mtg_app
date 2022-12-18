@@ -1,5 +1,5 @@
 # mtg_app
-rudimetary MAgic_ the Gathering card database UI
+rudimetary Mgic: the Gathering card database UI
 
 This project utilizes a database created in mySQL to pull/add and display data to users pertaining to  
 Magic: the Gathering cards. The database used was created locally on my machine using the queries  
